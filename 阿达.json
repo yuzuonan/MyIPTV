@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "dfa86af220794a0d994b5d69c2a14f62"
+     
     },
     {
       "key": "Gitcafe",
@@ -127,7 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "dfa86af220794a0d994b5d69c2a14f62"
+      
     },
     {
       "key": "push_agent",
@@ -137,7 +137,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "dfa86af220794a0d994b5d69c2a14f62"
+      
     },
     {
       "key": "360",
